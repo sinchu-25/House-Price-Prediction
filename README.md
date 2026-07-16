@@ -26,13 +26,13 @@ This project focuses on predicting house prices using advanced regression algori
 - Gradient Boosting
 
 ## Project Workflow
-1. Data collection
-2. Data preprocessing
-3. Exploratory data analysis
-4. Feature engineering
-5. Model training
-6. Model evaluation
-7. Price prediction
+- Data collection
+- Data preprocessing
+- Exploratory data analysis
+- Feature engineering
+- Model training
+- Model evaluation
+- Price prediction
 
 ## Evaluation Metrics
 - R² Score
