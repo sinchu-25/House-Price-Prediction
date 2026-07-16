@@ -2,6 +2,10 @@
 ## Project Overview
 This project focuses on predicting house prices using advanced regression algorithms. The model analyzes various property features and applies data preprocessing, feature engineering, and machine learning techniques to generate accurate price predictions.
 
+## Project Structure
+- Jupyter Notebook(PRCP-1020-HousePricPred)
+- README.md
+  
 ## Technologies Used
 - Python
 - Pandas
