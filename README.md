@@ -45,4 +45,4 @@ This project focuses on predicting house prices using advanced regression algori
   
 ## Results
 - Evaluated multiple regression models using R² Score, MSE, RMSE, and MAE.
-- Gradient Boosting achieved the best performance with an R² Score of 0.9259.
+- **Gradient Boosting** achieved the best performance with an R² Score of **0.9259**.
